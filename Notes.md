@@ -37,6 +37,7 @@
             >>>>>>> main
         
         Conflict occured when merging the feature branch into the main branch. The code was deleted in the feature branch but not changed or added in the main branch
+        The HEAD refers to your current branch's last commit. 
 
     Avoiding Conflicts
         Communicate often with other developers working on the same codebase. If you are working on the same part of the codebase, consider working together on that feature or fix until it is complete.
